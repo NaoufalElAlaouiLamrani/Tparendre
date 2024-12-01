@@ -50,12 +50,8 @@ Durant le développement de ce projet, j'ai travaillé sur plusieurs aspects du 
 Cependant, étant donné mon emploi du temps chargé (notamment avec les examens qui arrivent la semaine prochaine) et le manque de temps disponible,
 j'ai utilisé ChatGPT pour m'aider sur certains points précis du projet.
 
-Comme je dois attendre 72 heures pour l'activation de mon compte GitHub Copilot Student, ChatGPT m'a permis de :
+Comme je dois attendre 72 heures pour l'activation de mon compte GitHub Copilot Student, ChatGPT m'a aidé un petit peu .
 
-Comprendre et implémenter des comportements complexes comme wander, seek, et flee.
-Gérer les collisions entre les véhicules, les obstacles et les projectiles de manière réaliste.
-Trouver des idées et obtenir des explications claires pour des sujets complexes tels que la gestion 
-des bordures et l'utilisation des vecteurs dans p5.js.
 
 
 Un énorme merci à M. Michel Buffa pour ce cours enrichissant et pour sa manière inspirante et pédagogique d'enseigner.
